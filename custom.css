@@ -1,0 +1,31 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+	background-image: url('bgimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    float: left;
+     margin-left: 30px; 
+}
+
+ .mt-50{
+	margin-top: 50px;
+}
+
+#canvas{
+    border: 2px solid black;
+}
+
+.col-md-10{
+    margin: 10px;
+}
+
