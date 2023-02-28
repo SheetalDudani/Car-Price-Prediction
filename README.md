@@ -21,3 +21,4 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+
